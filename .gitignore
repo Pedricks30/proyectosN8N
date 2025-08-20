@@ -1,0 +1,9 @@
+# Ignorar base de datos en crudo
+postgres_data/
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Archivos de Docker
+*.pid
